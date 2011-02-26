@@ -1,0 +1,48 @@
+@charset 'utf-8';
+
+.blocks_order li {
+    border: solid 1px #cecece;
+    padding: 4px 4px 4px 18px;
+    background-color: #fff;
+    background-image: url('../images/reorder.png');
+    background-repeat: no-repeat;
+    background-position: 2px 4px;
+    width: 300px;
+	cursor: move;
+}
+
+form#mm_import {
+	float: left;
+}
+
+form#mm_import p.submit, form#mm_export p.submit {
+	padding: 0 30px 0 0;
+}
+
+form#mm_export label {
+	float: left;
+	padding: 0 10px 0 0;
+}
+
+form#mm_import fieldset, form#mm_export fieldset {
+    border: 1px solid #AAAAAA;
+    margin: 0 0 30px 0;
+    padding: 0 10px 0 10px;
+}
+
+.mm_inline {
+	display: inline;
+}
+
+#mm_category_form {
+	float:left;
+	width: 60%;
+}
+
+#mm_fields_info {
+	display: table-cell;
+}
+
+#mm_remove_data {
+    margin-top: 3em;
+}

@@ -1,0 +1,36 @@
+@charset 'utf-8';
+
+.clear {
+    clear: both;
+}
+
+.mm_category {
+    float: left;
+    margin: 0px 20px 20px 10px;
+}
+
+div.mm_item_full img, div.mm_item_short img {
+	float: left;
+}
+
+div.short_info {
+	margin-left: 230px;
+}
+
+form#mm_search {
+	float: left;
+	width: 70%;
+	margin-right: 20px;
+}
+
+form#mm_search input, form#mm_search select, form#mm_search textarea {
+	margin: 0px;
+}
+
+form#mm_search tr td {
+	border: none;
+}
+
+ul.category_brands {
+	list-style: none;
+}
