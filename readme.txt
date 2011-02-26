@@ -1,16 +1,20 @@
-=== Mixmarket ===
+=== Mixmarket (Каталог товаров) ===
 Contributors: Mixmarket
 Tags: plugin, mixmarket, partner network, catalogue goods, affiliate, ads, ad
 Requires at least: 2.9
-Tested up to: 3.0.1
+Tested up to: 3.1
 Stable tag: trunk
 
-The Mixmarket plugin is elegant and easy way to create catalog of goods and integrate it with mixmarket.biz partner network.
+Плагин для создания каталога товаров и размещения рекламы сервиса товарной рекламы Микс-Товары
 
 == Description ==
 
+Плагин для создания каталога товаров и размещения рекламы сервиса товарной рекламы Микс-Товары. <a href=
+"http://blog.mixmarket.biz/wordpress-plugin-mixmarket/?from=wordpress">Подробная инструкция по настройке данного плагина >></a>
+
+The Mixmarket plugin is elegant and easy way to create catalog of goods and integrate it with mixmarket affiliate network.
+
 The main purpose of this plugin is easy creation of goods catalogue.
-Плагин для создания каталога товаров и последующей монетизации
 
 It allows:
 
